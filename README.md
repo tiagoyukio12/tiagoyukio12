@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tiago Fujii
 - 👀 I’m interested in data science, time series forecasting, residential load forecasting, and software engineering
 - 🌱 I’m currently learning MLOps tools and techniques (CircleCI, pytest, tox, differential testing)
-- 💞️ I’m looking to collaborate on residential load forecasting projects
+- 💞️ I’m looking to collaborate on residential load forecasting or classification projects
 - 📫 How to reach me: Github, e-mail
 
 <!---
